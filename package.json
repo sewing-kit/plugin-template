@@ -20,5 +20,11 @@
   },
   "dependencies": {
     "@sewing-kit/plugins": "^0.0.10"
-  }
+  },
+  "files": [
+    "src",
+    "build",
+    "index.js",
+    "index.d.ts"
+  ]
 }
